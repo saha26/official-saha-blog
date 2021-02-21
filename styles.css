@@ -1,0 +1,38 @@
+body {
+    background-color: slategray
+}
+h1 {
+    font-family:Impact; 
+    color:deepskyblue; 
+    font-size: 300%; 
+    text-align:center;
+    text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+}
+h2 {
+    font-family:Impact; 
+    color:white; 
+    text-align:center;
+    border: 2px solid black; 
+    padding: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+}
+p {
+    font-family:Impact; 
+    color:white; 
+    margin-left: 20px;
+    text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+}
